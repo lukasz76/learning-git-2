@@ -10,3 +10,7 @@ section {
   	text-align: left;
   	width: 390px;
 }
+
+h1, h3 {
+  text-align: center;
+	}
