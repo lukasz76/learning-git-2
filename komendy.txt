@@ -1,0 +1,26 @@
+Autoprefixer CLI                                                                
+
+Install:                                                                       
+
+npm install --global autoprefixer-cli                                          
+
+Usage:                                                                         
+autoprefixer-cli -o main.prefixed.css main.css                                  
+
+See full documentation by:                                                     
+autoprefixer-cli -h                                                                                                                                             
+
+
+
+nu-html-checker                                                                 
+
+Install: 
+                                                                        
+% npm install -g nu-html-checker                                                
+
+CLI       
+Usage: cli [options] <files/urls ...>                           
+Options:                                                                      
+-h, --help                   output usage information                           
+-V, --version                output the version number                          
+-f, --formatter <formatter>  Choose the formatter to use.
